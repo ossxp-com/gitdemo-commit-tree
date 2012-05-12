@@ -1,4 +1,5 @@
 DEMO program for git-scm-book.
+------------------------------
 
 Changes
 =======
